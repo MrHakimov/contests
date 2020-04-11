@@ -1,8 +1,8 @@
 # Google Hashcode 2020 Online Qualification Round.
 
-[Problem Statement]()
+[Problem Statement](https://github.com/MrHakimov/contests/blob/master/hashcode/2020/qualification/hashcode_2020_online_qualification_round.pdf)
 
-Score:
+## Score:
 
 | Task | Name                   |      Score |
 | ---- |:---------------------- | ----------:|
@@ -14,10 +14,10 @@ Score:
 | F    | libraries of the world |  5,053,831 |
 | -    | TOTAL                  | 23,967,344 |
 
-1745 place out of 10724 teams.
+**Results:** 1745 place out of 10724 teams.
 
-Team:
+## Team:
 
-* https://github.com/MrHakimov
-* https://github.com/GaDiss
-* https://github.com/1ncend1ary
+* **Alexey Seliverstov** - https://github.com/1ncend1ary
+* **Sergey Pankratov** - https://github.com/GaDiss
+* **Muhammadjon Hakimov** - https://github.com/MrHakimov
